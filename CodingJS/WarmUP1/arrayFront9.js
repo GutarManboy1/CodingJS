@@ -7,10 +7,6 @@
 // arrayFront9([1,2,3,4,5]) → false
 
 function arrayFront9(nums){
-    nums.length = 4;
-   
-    if (nums.includes(9)){
-      return true
-        }
-     return false
-  }
+  return nums.splice(0,4).includes(9)
+}
+
