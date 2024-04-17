@@ -2,6 +2,14 @@ Drop Down Menu
 <img width="1440" alt="Screenshot 2024-04-16 at 0 35 45" src="https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/75a55dc2-b4fc-4468-993d-ee0c8a1f191b">
 <img width="1440" alt="Screenshot 2024-04-16 at 0 35 31" src="https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/82995149-a755-43c4-9421-f15f168df996">
 
+News App
+![Screenshot 2024-04-17 at 22 55 53](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/9e26c27a-3be7-428f-84d9-d85277e2d126)
+
+Once an article is clicked it opens in another window
+![Screenshot 2024-04-17 at 22 56 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3bf51d9c-c882-4ae3-bb16-dedcf0fb5cd0)
+
+
+
 Simple Quiz
 ![Screenshot 2024-04-16 at 22 37 24](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/78aad049-73ce-4fe8-8029-3bf103cc0a86)
 ![Screenshot 2024-04-16 at 22 37 34](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/a01209fe-5903-4b92-bbe9-e9fdd36b2066)
