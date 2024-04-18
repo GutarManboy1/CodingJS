@@ -8,6 +8,12 @@ News App
 Once an article is clicked it opens in another window
 ![Screenshot 2024-04-17 at 22 56 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3bf51d9c-c882-4ae3-bb16-dedcf0fb5cd0)
 
+Notes App
+User can create notes
+![Screenshot 2024-04-18 at 18 31 55](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/ef12a2b0-fe20-4038-aa04-533d8613e54b)
+
+User can delete and when refreshed, notes remain in the local storage
+![Screenshot 2024-04-18 at 18 32 16](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/c03fcca2-7c29-4a52-b4e0-6e67a03b0a17)
 
 
 Simple Quiz
