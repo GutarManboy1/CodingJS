@@ -1,0 +1,43 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body{
+  background: linear-gradient(135deg, #70d6ff,#ff70a6);
+}
+.meme-generator{
+text-align: center;
+}
+
+.meme-generator img{
+  height: 430px;
+  object-fit: cover;
+}
+
+.meme-generator .generate-meme-btn{
+  padding: 8px 20px;
+  border: none;
+  border-radius: 40px;
+  color: #fff;
+  font-size: 30px;
+  margin: 24px 0;
+  background: linear-gradient(135deg, #ffd670, #e9ff70);
+  cursor: pointer;
+  transition: all 400ms ;
+}
+.meme-generator h2{
+  color: #fff;
+  padding-bottom: 20px;
+}
+.meme-generator .generate-meme-btn:hover{
+  padding: 8px 36px;
+  letter-spacing: 3px;
+}
+
+.meme-generator .meme-author{
+  margin-top: 20px;
+  color: #fff;
+}
