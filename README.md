@@ -3,16 +3,18 @@ Drop Down Menu
 <img width="1440" alt="Screenshot 2024-04-16 at 0 35 31" src="https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/82995149-a755-43c4-9421-f15f168df996">
 
 Image Search 
+
 User can input a query 
 ![Screenshot 2024-04-22 at 18 03 48](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/45882a96-e121-4ac2-bd6f-e0386fbc6579)
 
 User clicks on image and opens in a new tab
-Gundam!
 ![Screenshot 2024-04-22 at 18 05 50](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3fab49ce-fb5d-416e-ab16-1dc6420c7013)
 
 Show more button at the bottom of page
 ![Screenshot 2024-04-22 at 18 04 11](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/39bc727c-34d4-4eb1-9350-312497eb6d1c)
 
+Image Slider (works, kinda...the images are repeating and not center but I'll fix it later...maybe)
+![Screenshot 2024-04-23 at 22 57 33](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/2efed3a4-57d0-4c1f-8392-bdef052689df)
 
 Meme Generator (I really like these colors.)
 ![Screenshot 2024-04-19 at 22 00 55](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/2de7d7f6-e8e7-4434-91ab-8d15d0665f85)
