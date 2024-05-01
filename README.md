@@ -2,6 +2,10 @@ Age Calculator
 ![Screenshot 2024-04-30 at 17 49 28](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/c5fc5ca6-aeeb-416f-9c4b-739733c545ba)
 I'm so old. 
 
+Digital Clock
+![Screenshot 2024-05-01 at 19 49 33](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/0f09afec-08fa-4984-87d2-a9e98beec85d)
+
+
 Another 3d portfolio site with Vite(not finished yet)
 ![Screenshot 2024-04-24 at 18 42 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b32509a1-0981-4b8b-bb7f-c1102254dd28)
 
