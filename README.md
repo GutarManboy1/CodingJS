@@ -46,6 +46,13 @@ User can create notes
 User can delete and when refreshed, notes remain in the local storage
 ![Screenshot 2024-04-18 at 18 32 16](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/c03fcca2-7c29-4a52-b4e0-6e67a03b0a17)
 
+Password Generator with Copy Button
+![Screenshot 2024-05-02 at 17 20 55](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/c9ac5151-44bd-41be-8254-1757d19d5af7)
+
+Copy Password 
+![Screenshot 2024-05-02 at 17 21 05](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/036ce71b-2808-4714-ad88-1b71ea507ef2)
+
+
 
 Simple Quiz
 ![Screenshot 2024-04-16 at 22 37 24](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/78aad049-73ce-4fe8-8029-3bf103cc0a86)
