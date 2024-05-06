@@ -9,7 +9,12 @@ Digital Clock
 Another 3d portfolio site with Vite(not finished yet)
 ![Screenshot 2024-04-24 at 18 42 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b32509a1-0981-4b8b-bb7f-c1102254dd28)
 
+Validation Form (this was fun, I had to look up things that people hear New Yorkers say 🗽)
+![Screenshot 2024-05-06 at 17 58 51](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/ab0781e8-acc0-423c-a747-25066dd88f43)
 
+With validation (Oi vey!)
+![Screenshot 2024-05-06 at 18 16 43](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/d08c23fa-dac5-426c-b9ee-0dad4bd3a375)
+Error message appears and asks for correct prompts as well.
 
 Drop Down Menu
 <img width="1440" alt="Screenshot 2024-04-16 at 0 35 45" src="https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/75a55dc2-b4fc-4468-993d-ee0c8a1f191b">
