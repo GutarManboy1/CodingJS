@@ -44,6 +44,14 @@ News App
 Once an article is clicked it opens in another window
 ![Screenshot 2024-04-17 at 22 56 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3bf51d9c-c882-4ae3-bb16-dedcf0fb5cd0)
 
+Password Strength
+![Screenshot 2024-05-07 at 17 38 38](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/5032ee18-a062-4a3a-bf70-bedfd9f0d77a)
+
+![Screenshot 2024-05-07 at 17 38 54](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/553946ce-867f-4ea1-99eb-521354bc5d1e)
+
+![Screenshot 2024-05-07 at 17 39 11](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/16ce9e2b-9b08-4707-8aaf-0f8e0c35ab86)
+
+
 Notes App
 User can create notes
 ![Screenshot 2024-04-18 at 18 31 55](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/ef12a2b0-fe20-4038-aa04-533d8613e54b)
