@@ -75,3 +75,7 @@ Simple Quiz
 ![Screenshot 2024-04-16 at 22 38 09](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b3666506-422f-4ada-97c2-48dcb7dcf026)
 ![Screenshot 2024-04-16 at 22 38 19](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/86c49b02-f595-4c79-94b8-c97884fce6eb)
 Yo momma.
+
+Toast Notification
+![Screenshot 2024-05-08 at 19 03 49](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/0d72aec0-bde0-425d-b90f-7a40434a5de7)
+
