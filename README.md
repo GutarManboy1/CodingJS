@@ -37,6 +37,15 @@ Image Slider (works, kinda...the images are repeating and not center but I'll fi
 Meme Generator (I really like these colors.)
 ![Screenshot 2024-04-19 at 22 00 55](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/2de7d7f6-e8e7-4434-91ab-8d15d0665f85)
 
+Menu Design
+![Screenshot 2024-05-09 at 16 40 01](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/362f1841-1785-408c-881e-294b67f89f65)
+
+List of Time Sucks
+![Screenshot 2024-05-09 at 16 40 12](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/8e9f2f84-d324-46a8-9fa5-e9d8d76db70c)
+
+After choosing the name stays in the input field
+![Screenshot 2024-05-09 at 16 40 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/630f64c9-7988-4bf4-844e-ec2efed1eded)
+
 
 News App
 ![Screenshot 2024-04-17 at 22 55 53](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/9e26c27a-3be7-428f-84d9-d85277e2d126)
