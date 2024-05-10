@@ -46,6 +46,9 @@ List of Time Sucks
 After choosing the name stays in the input field
 ![Screenshot 2024-05-09 at 16 40 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/630f64c9-7988-4bf4-844e-ec2efed1eded)
 
+Mini Calendar (I like these Japanese war plane colors)
+![Screenshot 2024-05-10 at 20 29 09](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/8ae39100-e149-4751-bd94-9f51b21d0e47)
+
 
 News App
 ![Screenshot 2024-04-17 at 22 55 53](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/9e26c27a-3be7-428f-84d9-d85277e2d126)
