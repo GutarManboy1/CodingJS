@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(150deg, #fefae0, #faedcd, #d4a373);
+}
+
+.container {
+
+  width: 95%;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.message h3 {
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 2px solid rgba(211, 211, 211, 0.8);
+  font-size: 30px;
+  padding: 25px;
+  color: #023047;
+}
+
+.container button {
+  border-radius: 5px 0 0 5px;
+  padding: 8px;
+  padding-top: 10.5px;
+  margin-top: 10px;
+  width: fit-content;
+  cursor: pointer;
+  border: 1px solid lightgray;
+  background: whitesmoke;
+}
+
+.container #submitBtn {
+  margin-bottom: 30px;
+}
+
+button:hover {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/* .container, p:nth-last-child(){
+  text-align: center;
+  text-transform: uppercase;
+} */
+.message {
+  border: 1px solid lightgray;
+  background: whitesmoke;
+  border-radius: 5px;
+  width: 500px;
+  height: auto;
+  margin: auto;
+  padding: 0 20px;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.5);
+}
+
+.message input {
+  width: 90%;
+  padding: 8px 0;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  margin-left: -3.5px;
+  border-radius: 5px;
+  border: 1px solid lightgray;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+/* remember these media queries, put in the size and what you want to happen after the screen becomes that size */
+@media(max-width:480px) {
+  .message input {
+    width: 82%;
+  }
+}
