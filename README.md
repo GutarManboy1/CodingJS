@@ -32,6 +32,13 @@ Drop Down Menu
 
 <img width="1440" alt="Screenshot 2024-04-16 at 0 35 31" src="https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/82995149-a755-43c4-9421-f15f168df996">
 
+Message
+![Screenshot 2024-05-17 at 17 20 52](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/090df08c-9232-4d5b-b18d-5d88cdde398b)
+
+![Screenshot 2024-05-17 at 17 21 05](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/8d6cf85a-890b-4ea2-b085-4f434ccfe2d9)
+
+
+
 Image Search 
 
 User can input a query 
