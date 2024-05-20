@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Danfo&family=Jacquard+12&family=Poetsen+One&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poetsen One', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(135deg, #ffd60a, #ffc300);
+}
+
+.container {
+  width: 80vmin;
+  padding: 50px 40px;
+  background: #001d3d;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  border-radius: 5px;
+  box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.5);
+}
+
+span {
+  display: block;
+  text-align: center;
+  font-size: 85px;
+}
+
+button {
+  display: block;
+  border: none;
+  margin: 0 auto;
+  cursor: pointer;
+  padding: 5px;
+  font-size: 1rem;
+  border-radius: 5px;
+  background: #f5f4f4;
+  color: #000814;
+}
+
+p {
+  color: #f5f4f4;
+  padding-bottom: 35px;
+  text-align: center;
+  word-wrap: break-word;
+  font-size: 1.5rem;
+  line-height: 35px;
+  margin: 30px 0;
+  opacity: 0;
+}
+.fade{
+  opacity: 1;
+  transition: opacity 1.5s;
+}
