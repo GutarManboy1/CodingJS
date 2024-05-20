@@ -37,10 +37,11 @@ Message
 
 ![Screenshot 2024-05-17 at 17 21 05](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/8d6cf85a-890b-4ea2-b085-4f434ccfe2d9)
 
-
+Joke Generator
+(Jeez 🙂‍↔️)
+![Screenshot 2024-05-20 at 19 59 29](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/e99e9500-96b3-4f57-9034-a950b2c2717a)
 
 Image Search 
-
 User can input a query 
 ![Screenshot 2024-04-22 at 18 03 48](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/45882a96-e121-4ac2-bd6f-e0386fbc6579)
 
