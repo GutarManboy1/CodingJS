@@ -69,7 +69,6 @@ After choosing the name stays in the input field
 Mini Calendar (I like these Japanese war plane colors)
 ![Screenshot 2024-05-10 at 20 29 09](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/8ae39100-e149-4751-bd94-9f51b21d0e47)
 
-
 News App
 ![Screenshot 2024-04-17 at 22 55 53](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/9e26c27a-3be7-428f-84d9-d85277e2d126)
 
@@ -82,7 +81,6 @@ Password Strength
 ![Screenshot 2024-05-07 at 17 38 54](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/553946ce-867f-4ea1-99eb-521354bc5d1e)
 
 ![Screenshot 2024-05-07 at 17 39 11](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/16ce9e2b-9b08-4707-8aaf-0f8e0c35ab86)
-
 
 Notes App
 User can create notes
@@ -97,6 +95,11 @@ Password Generator with Copy Button
 Copy Password 
 ![Screenshot 2024-05-02 at 17 21 05](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/036ce71b-2808-4714-ad88-1b71ea507ef2)
 
+Pokemon Generator
+Two of my favorites
+![Screenshot 2024-05-22 at 21 20 13](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/9101e754-7bc0-43b9-876c-d9d57a37fb2c)
+
+![Screenshot 2024-05-22 at 21 21 43](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/fffef69a-789c-41c0-9f56-daf6cfe48eb2)
 
 
 Simple Quiz
