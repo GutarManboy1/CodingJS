@@ -5,9 +5,19 @@ I'm so old.
 Colors Button (Supreme)
 ![Screenshot 2024-05-15 at 21 29 21](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/aead21b9-9122-49cb-a7c0-a7883e76ddd5)
 
+Country Guide
+![Screenshot 2024-05-23 at 21 34 52](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/d8f118ab-965b-4f7f-8255-5fc67903704b)
+
+The gas joke from below is gonna make me look sus 
+![Screenshot 2024-05-23 at 21 34 20](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/ba085df3-d5f1-4f19-a908-d33b838f7457)
+
+![Screenshot 2024-05-23 at 21 35 33](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/581c2fab-1f0c-45af-9e12-6fa1968edbd4)
+
+![Screenshot 2024-05-23 at 21 36 13](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b7ea3c78-40ea-4179-bd89-52d21c31130f)
+
+
 Digital Clock
 ![Screenshot 2024-05-01 at 19 49 33](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/0f09afec-08fa-4984-87d2-a9e98beec85d)
-
 
 Another 3d portfolio site with Vite(not finished yet)
 ![Screenshot 2024-04-24 at 18 42 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b32509a1-0981-4b8b-bb7f-c1102254dd28)
