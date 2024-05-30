@@ -15,6 +15,11 @@ The gas joke from below is gonna make me look sus
 
 ![Screenshot 2024-05-23 at 21 36 13](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b7ea3c78-40ea-4179-bd89-52d21c31130f)
 
+Dictionary
+![Screenshot 2024-05-30 at 22 37 28](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3fcab004-3fc5-4af6-b38a-9406b2a3d92b)
+
+![Screenshot 2024-05-30 at 22 38 09](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/284fc94b-c4f7-4eaa-beed-6f41b6ae666b)
+
 
 Digital Clock
 ![Screenshot 2024-05-01 at 19 49 33](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/0f09afec-08fa-4984-87d2-a9e98beec85d)
