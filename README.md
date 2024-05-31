@@ -2,6 +2,14 @@ Age Calculator
 ![Screenshot 2024-04-30 at 17 49 28](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/c5fc5ca6-aeeb-416f-9c4b-739733c545ba)
 I'm so old. 
 
+Card Slider (Gundam Edition)
+![Screenshot 2024-05-31 at 21 07 13](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/4483ca57-2b07-4d25-8d5f-0a7f163f004e)
+
+![Screenshot 2024-05-31 at 21 07 30](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/7856ee2d-33ff-49fe-b303-c2f552b65be9)
+
+R.I.P. big man ✈️ 💣 🔥 
+![Screenshot 2024-05-31 at 21 08 30](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/383d13cf-b47e-4dba-8563-ba239a34278d)
+
 Colors Button (Supreme)
 ![Screenshot 2024-05-15 at 21 29 21](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/aead21b9-9122-49cb-a7c0-a7883e76ddd5)
 
