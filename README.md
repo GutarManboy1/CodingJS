@@ -149,6 +149,10 @@ Spyware 👀
 
 ![Screenshot 2024-05-29 at 23 28 58](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/7a9a45c8-a37a-4240-b4de-a1f860efc617)
 
+Stars
+![Screenshot 2024-06-03 at 23 55 24](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/7e59c1cc-2501-4bb3-8a93-d50bcd66f971)
+
+![Screenshot 2024-06-03 at 23 55 39](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/011f9a9a-145d-4e70-83c5-bd648e34912f)
 
 StopWatch (with Unicorn Gundam)
 
