@@ -32,6 +32,13 @@ Dictionary
 Digital Clock
 ![Screenshot 2024-05-01 at 19 49 33](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/0f09afec-08fa-4984-87d2-a9e98beec85d)
 
+Download:Progress Bar (not perfect but that'll do)
+![Screenshot 2024-06-04 at 19 12 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/5eeec0c2-6d51-4c2d-800a-8ebdda173ef3)
+
+Progress bar GO!
+![Screenshot 2024-06-04 at 19 12 59](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/684fc488-54cf-4123-99f2-20d9faa02ab4)
+
+
 Another 3d portfolio site with Vite(not finished yet)
 ![Screenshot 2024-04-24 at 18 42 23](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/b32509a1-0981-4b8b-bb7f-c1102254dd28)
 
