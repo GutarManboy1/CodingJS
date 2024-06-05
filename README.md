@@ -1,6 +1,6 @@
 Age Calculator
 ![Screenshot 2024-04-30 at 17 49 28](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/c5fc5ca6-aeeb-416f-9c4b-739733c545ba)
-I'm so old. 
+I'm so old. god damn
 
 Card Slider (Gundam Edition)
 ![Screenshot 2024-05-31 at 21 07 13](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/4483ca57-2b07-4d25-8d5f-0a7f163f004e)
