@@ -56,6 +56,11 @@ Hex Colors
 
 ![Screenshot 2024-05-16 at 21 23 35](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/3cb9858d-6a78-49d8-a7c9-52679109e977)
 
+Highlight Text ☺️ 🧝‍♀️ 👀 
+![Screenshot 2024-06-06 at 21 09 17](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/8b8e67f9-511b-498e-b77f-48b1d2458fd8)
+
+![Screenshot 2024-06-06 at 21 08 54](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/111e1b31-1d0a-4b27-a4b1-889ecc7f3aeb)
+
 
 Drop Down Menu
 <img width="1440" alt="Screenshot 2024-04-16 at 0 35 45" src="https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/75a55dc2-b4fc-4468-993d-ee0c8a1f191b">
