@@ -170,6 +170,14 @@ StopWatch (with Unicorn Gundam)
 
 ![Screenshot 2024-05-13 at 21 33 27](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/d3e5c393-d9a8-4a1b-9ec8-8f295e1e4d18)
 
+Text Animation
+![Screenshot 2024-06-07 at 21 35 01](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/ec849136-bc30-4b56-89e5-1c50c51ab342)
+
+![Screenshot 2024-06-07 at 21 35 17](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/16c269d9-5f36-4701-97bb-6f2a0b110a5c)
+
+Where there is a will, there is a way.
+![Screenshot 2024-06-07 at 21 35 56](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/982a6648-95c6-44c6-82e2-3a16b9c1ff98)
+
 Toast Notification
 ![Screenshot 2024-05-08 at 19 03 49](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/0d72aec0-bde0-425d-b90f-7a40434a5de7)
 
