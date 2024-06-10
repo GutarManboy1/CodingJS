@@ -141,6 +141,12 @@ PopUp
 
 ![Screenshot 2024-05-28 at 22 58 24](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/292214ef-6490-4e73-9831-8ac3fe93ffb2)
 
+Range Slider
+![Screenshot 2024-06-10 at 23 47 07](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/1687810f-e3c7-49f9-980e-9f9a087c059f)
+
+☺️ 
+![Screenshot 2024-06-10 at 23 46 51](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/e792a75d-86eb-4934-b24e-cff4311db46c)
+
 Simple Quiz
 ![Screenshot 2024-04-16 at 22 37 24](https://github.com/GutarManboy1/Javascript-Ruby-Exercises/assets/122960936/78aad049-73ce-4fe8-8029-3bf103cc0a86)
 
